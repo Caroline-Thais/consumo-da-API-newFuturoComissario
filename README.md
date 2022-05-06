@@ -22,6 +22,7 @@ O projeto consiste em duas partes:
 criptografia de senhas.
 
 
+
 <img src="https://cdn-icons-png.flaticon.com/512/3940/3940056.png" height="60em"/> Front end 
 
 <img src="https://cdn-icons.flaticon.com/png/512/4553/premium/4553821.png?token=exp=1651873943~hmac=f55377606bcf3bd648ecfbd31a19c8aa" height="20em" /> Utilizei o Vue.js para a integração do projeto backend Node.js com o frontend, utilizando o Axios.
@@ -40,7 +41,7 @@ Tecnologias utilizadas:<br>
 <img src="https://cdn-icons.flaticon.com/png/512/4509/premium/4509872.png?token=exp=1651873346~hmac=cba6fd86f7ada20c8f5c6c4c87132ea5" height="15em"/> Body Parser
 <hr>
 
-<p><img src="https://img.icons8.com/plasticine/344/stack-of-photos.png" height="40em"> Galeria:</p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/2150/2150667.png" height="40em"> Galeria:</p>
 
 ![Captura de ecrã de 2022-05-06 17-55-21](https://user-images.githubusercontent.com/76595905/167221181-04c92d43-7887-4001-ab94-b1dda1003fbd.png)
 
@@ -50,6 +51,13 @@ Tecnologias utilizadas:<br>
 
 ![Captura de ecrã de 2022-05-06 17-58-15](https://user-images.githubusercontent.com/76595905/167221224-8337271f-fc35-4c28-9b94-f00f0f244c02.png)
 
+<hr>
+<div align="center"> 
+<a href="https://github.com/Caroline-Thais/API-futuro-comissario" target="_blank">Código Backend</a> |
+<a href="https://github.com/Caroline-Thais/NEW-futuro-comissario" target="_blank">Código Frontend</a>   
+</div>  
+<hr>
+    
 
 
 
