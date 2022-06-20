@@ -6,7 +6,7 @@
 
 <div align="center">
   
-    Flight Attendant Website
+    Site Futuro Comissário
   
 </div>
 <!--I am developing a website where aspiring flight attendants can train on Anac's exam questions (certification required to work as a flight attendant in Brazil). In addition to being able to practice the questions of past exams, the site will have an area of vacancies in aviation. This project is an improvement of a project I had done previously using C#.-->
@@ -82,7 +82,7 @@ Próximas implementações:
 
 ---
 <div align="center">
-Developed by THAÍS CAROLINE SILVA 
+<!--Developed by-->Desenvolvido por THAÍS CAROLINE SILVA 
 <img src="https://cdn-icons-png.flaticon.com/512/2618/2618497.png" height="40em"> 
 </div>
 
