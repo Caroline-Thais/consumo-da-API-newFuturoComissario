@@ -63,8 +63,8 @@ Tecnologias utilizadas:<br>
 
 <hr>
 <div align="center"> 
-<a href="https://github.com/Caroline-Thais/API-futuro-comissario" target="_blank">Backend Code</a> |
-<a href="https://github.com/Caroline-Thais/NEW-futuro-comissario" target="_blank">Frontend Code</a>   
+<a href="https://github.com/Caroline-Thais/API-futuro-comissario" target="_blank">Código Backend</a> |
+<a href="https://github.com/Caroline-Thais/NEW-futuro-comissario" target="_blank">Código Frontend</a>   
 </div>  
 <hr>
     
